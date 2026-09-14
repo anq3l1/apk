@@ -1,0 +1,14 @@
+{
+    "hello":
+    {
+    "name": "hello",
+    "url": "https://ftp.gnu.org/gnu/hello/hello-2.12.3.tar.gz",
+    "version": "2.12.3"
+    },
+
+    "firefox":
+    {
+    "name": "firefox",
+    "url": "https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64&lang=ru"
+    }
+}
